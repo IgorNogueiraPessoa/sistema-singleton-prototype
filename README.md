@@ -1,6 +1,6 @@
 # Igor Nogueira Pessoa | Bruno aparecido Vivencio Rodrigues - 2º AMS
 
-**Implementando os padrões singleton e prototype**
+**Implementando os padrões singleton e prototype** <br>
 O sistema representa a emissão de certificados de um sistema acadêmico.
 <br><br>
 **Singleton:** é um padrão de projeto utilizado para garantir que uma classe tenha apenas uma única instância em toda a execução de um programa. No contexto do projeto desenvolvido, foi utilizado para garantir que só existisse uma única fila de impressão. Assim, todas as vezes que uma nova impressão tivesse que ser feita, ela não iria gerar uma nova fila e travar todo o andamento.
