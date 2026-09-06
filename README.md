@@ -1,4 +1,4 @@
-# Igor Nogueira Pessoa | Bruno aparecido Vivencio Rodrigues - 2º AMS
+# Igor Nogueira Pessoa | Bruno Aparecido Vivencio Rodrigues - 2º AMS
 
 **Implementando os padrões singleton e prototype** <br>
 O sistema representa a emissão de certificados de um sistema acadêmico.
